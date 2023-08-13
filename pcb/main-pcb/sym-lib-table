@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "teensy")(type "Legacy")(uri "/home/lbartsch/Documents/eprojects/robot_power/teensy_library-master/teensy.lib")(options "")(descr ""))
+  (lib (name "robotto-symbols")(type "Legacy")(uri "/home/lbartsch/Documents/eprojects/robot_power/robotto-symbols.lib")(options "")(descr ""))
+  (lib (name "robot_power-rescue")(type "Legacy")(uri "${KIPRJMOD}/robot_power-rescue.lib")(options "")(descr ""))
+)

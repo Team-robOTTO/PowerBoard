@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "robotto-footprints")(type "KiCad")(uri "${KIPRJMOD}/robotto-footprints.pretty")(options "")(descr ""))
+)

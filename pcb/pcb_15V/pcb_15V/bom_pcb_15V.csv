@@ -1,0 +1,56 @@
+Source:;/Users/ingabrockhage/Documents/robotto/powerboard/pcb_15V/pcb_15V/pcb_15V.kicad_sch;;;;;;
+Date:;2022 November 28, Monday 17:50:35;;;;;;
+Tool:;Eeschema (6.0.9-0);;;;;;
+Generator:;/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value.py;;;;;;
+Component Count:;22;;;;;;
+;;;;;;;
+Individual Components:;;;;;;;
+;;;;;;;
+Item;Qty;;Reference(s);Value;LibPart;Footprint;Datasheet
+;;;CBTS1;270n;Device:C;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~
+;;;CCF1;12p;Device:C;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;~
+;;;CF1;15n;Device:C;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;~
+;;;CIN1;470u;Device:C_Polarized;Capacitor_SMD:CP_Elec_16x17.5;~
+;;;CIN2;22u;Device:C_Polarized;Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder;~
+;;;CIN3;1u;Device:C;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~
+;;;CIVCC1;1u;Device:C;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~
+;;;CL1;120p;Device:C;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;~
+;;;COUT1;100u;Device:C_Polarized;Capacitor_SMD:CP_Elec_8x11.9;~
+;;;COUT2;100u;Device:C_Polarized;Capacitor_SMD:CP_Elec_8x11.9;~
+;;;J1;Conn_01x02_Female;Connector:Conn_01x02_Female;Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical;~
+;;;J2;Conn_01x02_Female;Connector:Conn_01x02_Female;Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;~
+;;;J3;Conn_01x02_Female;Connector:Conn_01x02_Female;Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical;~
+;;;L1;5.6uH;Device:L;Inductor_SMD:L_12x12mm_H8mm;~
+;;;Q_HIGH1;Q_NMOS_GDS;Device:Q_NMOS_GDS;Package_TO_SOT_SMD:TO-252-3_TabPin2;~
+;;;Q_LOW1;Q_NMOS_GDS;Device:Q_NMOS_GDS;Package_TO_SOT_SMD:TO-252-3_TabPin2;~
+;;;R1;100k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+;;;R2;8k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+;;;RF1;6.65k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+;;;RFREQ1;20k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+;;;Rsense1;1.1k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+;;;U1;TLF51801ELV;TLF51801ELV:TLF51801ELV;pcb_15V:SOP65P600X170-15N-V2;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+Collated Components:;;;;;;;
+;;;;;;;
+Item;Qty;Mouser Link;Reference(s);Value;LibPart;Footprint;Datasheet
+1;1;https://www.mouser.de/ProductDetail/KEMET/C1206C273K5RAC7800?qs=LcahVQl%252BFeQn6lQFhtybCg%3D%3D;CBTS1;270n;Device:C;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~
+2;1;https://www.mouser.de/ProductDetail/KEMET/C0603C120J5GAC7867?qs=xVzHhAug4FAmFbi2HEHwrg%3D%3D;CCF1;12p;Device:C;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;~
+3;1;https://www.mouser.de/ProductDetail/KEMET/C0603C153K5RACTU?qs=lJgFhCQulnr6ANOSHxstzw%3D%3D;CF1;15n;Device:C;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;~
+4;1;https://www.mouser.de/ProductDetail/Panasonic/EEE-FK1H471AM?qs=tqvsmoK%252ByvFak1dN7eEiAA%3D%3D;CIN1;470u;Device:C_Polarized;Capacitor_SMD:CP_Elec_16x17.5;~
+5;1;https://www.mouser.de/ProductDetail/KEMET/C2220C226M5R2CAUTO?qs=%2FP4PrV2zI7PFm%2FXGh1rWvw%3D%3D;CIN2;22u;Device:C_Polarized;Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder;~
+6;1;https://www.mouser.de/ProductDetail/KEMET/C1206C105K5RAC7800?qs=HwP6sGvP66YvUShJICNDDg%3D%3D;CIN3;1u;Device:C;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~
+;1;https://www.mouser.de/ProductDetail/KEMET/C1206C105K4RACTU?qs=mhB89zxvawkhvFSUXW8mIw%3D%3D;CIVCC1;1u;Device:C;Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder;~
+7;1;https://www.mouser.de/ProductDetail/KEMET/C0603C121J5GAC7867?qs=xVzHhAug4FCquoT6gvwGLA%3D%3D;CL1;120p;Device:C;Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder;~
+8;2;https://www.mouser.de/ProductDetail/Rubycon/6SW100M?qs=BJlw7L4Cy78HK%252BOoCsAFqw%3D%3D;COUT1, COUT2;100u;Device:C_Polarized;Capacitor_SMD:CP_Elec_8x11.9;~
+9;2;https://www.mouser.de/ProductDetail/SparkFun/PRT-10474?qs=WyAARYrbSnYJaRDMiD9g2w%3D%3D;J1, J3;Conn_01x02_Female;Connector:Conn_01x02_Female;Connector_AMASS:AMASS_XT60-F_1x02_P7.20mm_Vertical;~
+10;1;https://www.mouser.de/ProductDetail/Harwin/M50-3030242?qs=%252BdQmOuGyFcEgq9CAdD7HGw%3D%3D;J2;Conn_01x02_Female;Connector:Conn_01x02_Female;Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical;~
+11;1;https://www.mouser.de/ProductDetail/Coilcraft/MSS1278T-562MLD?qs=zCSbvcPd3paIkbhzcsbw8g%3D%3D;L1;5.6uH;Device:L;Inductor_SMD:L_12x12mm_H8mm;~
+12;2;https://www.mouser.de/ProductDetail/Infineon-Technologies/IPD50N06S4L12ATMA2?qs=OwbwYO03UsLkML6Aev1Vcw%3D%3D;Q_HIGH1, Q_LOW1;Q_NMOS_GDS;Device:Q_NMOS_GDS;Package_TO_SOT_SMD:TO-252-3_TabPin2;~
+13;1;https://www.mouser.de/ProductDetail/Panasonic/ERJ-3EKF1003V?qs=H7k1u0Mp9JSqh2R2gj46DA%3D%3D;R1;100k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+14;1;https://www.mouser.de/ProductDetail/YAGEO/RT0603BRE078KL?qs=ABvmyp11Kkg9dWVeDLdutQ%3D%3D;R2;8k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+15;1;https://www.mouser.de/ProductDetail/Panasonic/ERJ-3EKF6651V?qs=66DK8nO8gJCLxReoLjqhXA%3D%3D;RF1;6.65k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+16;1;https://www.mouser.de/ProductDetail/Panasonic/ERJ-3EKF2002V?qs=66DK8nO8gJB3y0uxig0mNg%3D%3D;RFREQ1;20k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+17;1;https://www.mouser.de/ProductDetail/Panasonic/ERJ-3EKF1101V?qs=zp1CF8hTeCiNy6F%252B%252B5%252BYzw%3D%3D;Rsense1;1.1k;Device:R;Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder;~
+18;1;https://www.mouser.de/ProductDetail/Infineon-Technologies/TLF51801ELV?qs=y2kkmE52mdOdhUJngasMaw%3D%3D;U1;TLF51801ELV;TLF51801ELV:TLF51801ELV;pcb_15V:SOP65P600X170-15N-V2;

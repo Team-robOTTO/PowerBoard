@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/nharder/pcb_15V/pcb_15V.sch</source>
+    <date>Fr 18 Nov 2022 10:09:32 CET</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>pcb_15V.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="CBTS1">
+      <value>270n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063694958</tstamps>
+    </comp>
+    <comp ref="CCF1">
+      <value>12p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006367ec73</tstamps>
+    </comp>
+    <comp ref="CF1">
+      <value>15n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006367e51b</tstamps>
+    </comp>
+    <comp ref="CIN1">
+      <value>470u</value>
+      <footprint>Capacitor_SMD:CP_Elec_16x17.5</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636d8b4c</tstamps>
+    </comp>
+    <comp ref="CIN2">
+      <value>22u</value>
+      <footprint>Capacitor_SMD:C_2220_5650Metric_Pad1.97x5.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636d978a</tstamps>
+    </comp>
+    <comp ref="CIN3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636729a6</tstamps>
+    </comp>
+    <comp ref="CIVCC1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063678db2</tstamps>
+    </comp>
+    <comp ref="CL1">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006368c538</tstamps>
+    </comp>
+    <comp ref="COUT1">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7343-30_AVX-N_Pad2.25x2.55mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636c3b8f</tstamps>
+    </comp>
+    <comp ref="COUT2">
+      <value>100u</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7343-30_AVX-N_Pad2.25x2.55mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636c5c0d</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>5.6uH</value>
+      <footprint>Inductor_SMD:L_12x12mm_H8mm</footprint>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636c2b2f</tstamps>
+    </comp>
+    <comp ref="Q_HIGH1">
+      <value>Q_NMOS_GDS</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636927cd</tstamps>
+    </comp>
+    <comp ref="Q_LOW1">
+      <value>Q_NMOS_GDS</value>
+      <footprint>Package_TO_SOT_SMD:TO-252-3_TabPin2</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636938c5</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063688675</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>8k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000063688f3a</tstamps>
+    </comp>
+    <comp ref="RF1">
+      <value>6.65k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006367dbd7</tstamps>
+    </comp>
+    <comp ref="RFREQ1">
+      <value>20k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006367d487</tstamps>
+    </comp>
+    <comp ref="Rsense1">
+      <value>1.1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006368daaf</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TLF51801ELV</value>
+      <footprint>pcb_15V:SOP65P600X170-15N-V2</footprint>
+      <libsource lib="TLF51801ELV" part="TLF51801ELV" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="/home/nharder/pcb_15V/pcb_15V.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000636703b7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TLF51801ELV" part="TLF51801ELV">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TLF51801ELV</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IVCC" type="output"/>
+        <pin num="2" name="VS" type="input"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="SYNC/FREQ" type="input"/>
+        <pin num="6" name="COMP" type="input"/>
+        <pin num="7" name="FB" type="input"/>
+        <pin num="8" name="PGND" type="input"/>
+        <pin num="9" name="LG" type="output"/>
+        <pin num="10" name="BUO" type="output"/>
+        <pin num="11" name="UG" type="output"/>
+        <pin num="12" name="BTS" type="input"/>
+        <pin num="13" name="senselow" type="input"/>
+        <pin num="14" name="sensehigh" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="TLF51801ELV">
+      <uri>/home/nharder/pcb_15V/TLF51801ELV.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="EN">
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="CCF1" pin="2" pintype="passive"/>
+      <node ref="CF1" pin="2" pintype="passive"/>
+      <node ref="CIN1" pin="2" pintype="passive"/>
+      <node ref="CIN2" pin="2" pintype="passive"/>
+      <node ref="CIN3" pin="2" pintype="passive"/>
+      <node ref="CIVCC1" pin="2" pintype="passive"/>
+      <node ref="COUT1" pin="2" pintype="passive"/>
+      <node ref="COUT2" pin="2" pintype="passive"/>
+      <node ref="Q_LOW1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="RFREQ1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="PGND" pintype="input"/>
+    </net>
+    <net code="3" name="Net-(CBTS1-Pad1)">
+      <node ref="CBTS1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="BTS" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(CBTS1-Pad2)">
+      <node ref="CBTS1" pin="2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q_HIGH1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q_LOW1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="BUO" pintype="output"/>
+      <node ref="U1" pin="13" pinfunction="senselow" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(CCF1-Pad1)">
+      <node ref="CCF1" pin="1" pintype="passive"/>
+      <node ref="RF1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="COMP" pintype="input"/>
+    </net>
+    <net code="6" name="Net-(CF1-Pad1)">
+      <node ref="CF1" pin="1" pintype="passive"/>
+      <node ref="RF1" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(CIVCC1-Pad1)">
+      <node ref="CIVCC1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IVCC" pintype="output"/>
+    </net>
+    <net code="8" name="Net-(CL1-Pad2)">
+      <node ref="CL1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(Q_HIGH1-Pad1)">
+      <node ref="Q_HIGH1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="UG" pintype="output"/>
+    </net>
+    <net code="10" name="Net-(Q_LOW1-Pad1)">
+      <node ref="Q_LOW1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="U1" pin="9" pinfunction="LG" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(RFREQ1-Pad1)">
+      <node ref="RFREQ1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SYNC/FREQ" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(Rsense1-Pad1)">
+      <node ref="Rsense1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="sensehigh" pintype="input"/>
+    </net>
+    <net code="13" name="V_CC">
+      <node ref="CL1" pin="1" pintype="passive"/>
+      <node ref="COUT1" pin="1" pintype="passive"/>
+      <node ref="COUT2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="V_s">
+      <node ref="CIN1" pin="1" pintype="passive"/>
+      <node ref="CIN2" pin="1" pintype="passive"/>
+      <node ref="CIN3" pin="1" pintype="passive"/>
+      <node ref="Q_HIGH1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="Rsense1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VS" pintype="input"/>
+    </net>
+  </nets>
+</export>
